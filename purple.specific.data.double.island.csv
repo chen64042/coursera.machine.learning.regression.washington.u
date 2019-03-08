@@ -1,0 +1,22 @@
+Date,Time,Duration,Room temperature,Model #,Start temperature,End temperature,Difference,Arun's Box Difference,Notes,Board R-Value,K Value Calculator,Score
+2/3/2019,9:28:00 PM,25,19.7,Purple,73,62.3,10.7,,Baseline testing for Purple updated model w/ double island (<12cm requirement).,5,-0.008963283,43.17215568
+2/3/2019,10:06:00 PM,25,19.7,Purple,70,61.1,8.9,,Baseline testing for Purple updated model w/ double island (<12cm requirement).,5,-0.007788968,49.68106962
+2/3/2019,10:52:00 PM,25,19.7,Purple,64.2,56.2,8,,Baseline testing for Purple updated model w/ double island (<12cm requirement).,5,-0.007927077,48.81550249
+2/6/2019,3:14:00 PM,25,22,Purple,68,61.2,6.8,,Baseline testing for Purple updated model w/ double island (<12cm requirement).,,-0.006398586,60.47652634
+2/13/2019,3:14:00 PM,25,22.6,Purple,65,59.8,5.2,,Baseline testing for Purple updated model w/ double island (<12cm requirement).,,-0.005233584,73.93867208
+2/21/2019,5:33:00 PM,25,21.3,Purple,67.2,58.7,8.5,,Baseline testing for Purple updated model w/ double island (<12cm requirement).,,-0.008191777,47.23813617
+2/21/2019,5:58:00 PM,25,21.6,Purple,66.9,59.5,7.4,,Baseline testing for Purple updated model w/ double island (<12cm requirement).,,-0.007134237,54.24045543
+2/21/2019,6:23:00 PM,25,21.6,Purple,78.4,67,11.4,,Baseline testing for Purple updated model w/ double island (<12cm requirement).,,-0.008960969,43.18330546
+2/21/2019,7:36:00 PM,25,21.6,Purple,75.3,64.8,10.5,,Baseline testing for Purple updated model w/ double island (<12cm requirement).,,-0.0087029,44.46382733
+2/21/2019,9:23:00 PM,25,21.6,Purple,68.4,59.9,8.5,,Baseline testing for Purple updated model w/ double island (<12cm requirement).,,-0.008017332,48.26596192
+2/23/2019,3:53:00 PM,25,21.9,Purple,73.7,63.4,10.3,,Baseline testing for Purple updated model w/ double island (<12cm requirement).,,-0.008867869,43.63666843
+2/23/2019,,25,21.9,Purple,69.3,60.7,8.6,,Baseline testing for Purple updated model w/ double island (<12cm requirement).,,-0.008008079,48.32173114
+2/23/2019,5:05:00 PM,25,21.9,Purple,65.4,57.3,8.1,,Baseline testing for Purple updated model w/ double island (<12cm requirement).,,-0.008241965,46.9504866
+2/23/2019,6:27:00 PM,25,19.8,Purple,57.4,51.2,6.2,,Baseline testing for Purple updated model w/ double island (<12cm requirement).,,-0.007207846,53.68652965
+2/23/2019,7:02:00 PM,25,20.6,Purple,69.1,60.5,8.6,,Baseline testing for Purple updated model w/ double island (<12cm requirement).,,-0.007807499,49.56315152
+2/24/2019,9:15:00 AM,25,20,Purple,56.3,50.5,5.8,,Baseline testing for Purple updated model w/ double island (<12cm requirement).,,-0.006963642,55.56923188
+2/24/2019,9:58:00 AM,25,20,Purple,67.6,59.6,8,,Baseline testing for Purple updated model w/ double island (<12cm requirement).,,-0.007360146,52.57562402
+3/4/2019,,25,20,Purple,69,60.2,8.8,,Baseline testing for Purple updated model w/ double island (<12cm requirement).,,-0.007918132,48.87064893
+3/5/2019,10:22:00 PM,25,21,Purple,61.4,54.9,6.5,,Baseline testing for Purple updated model w/ double island (<12cm requirement).,,-0.007016591,55.14989598
+3/5/2019,10:55:00 PM,25,21,Purple,72.5,63.4,9.1,,Baseline testing for Purple updated model w/ double island (<12cm requirement).,,-0.007777338,49.75536143
+3/5/2019,11:32:00 PM,15,21,Purple,71.1,64.4,6.7,,Baseline testing for Purple updated model w/ double island (<12cm requirement).,,-0.009570771,40.43187834

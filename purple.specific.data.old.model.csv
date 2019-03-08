@@ -1,0 +1,38 @@
+Date,Time,Duration,Room temperature,Model #,Start temperature,End temperature,Difference,Arun's Box Difference,Notes,Board R-Value,K Value Calculator,Score
+12/30/2018,3:58:00 PM,25,20.7,Purple,77.2,62.4,14.8,,Baseline testing for Purple updated model (<12cm requirement),5,-0.01214958,31.85000981
+12/30/2018,7:24:00 PM,25,18.8,Purple,73.7,60.2,13.5,,Baseline testing for Purple updated model (<12cm requirement),5,-0.011289299,34.27708524
+12/30/2018,10:02:00 PM,25,20.8,Purple,74.7,62.7,12,,"Baseline testing for Purple updated model (<12cm requirement). Foil lid inside (top + rim, bottom + side)",5,-0.010073786,38.41299116
+12/30/2018,10:31:00 PM,25,21.5,Purple,73.8,62.8,11,,"Baseline testing for Purple updated model (<12cm requirement). Foil lid inside (top + rim, bottom + side)",5,-0.009445355,40.96873653
+12/30/2018,11:44:00 PM,25,20.9,Purple,69.6,58.5,11.1,,"Baseline testing for Purple updated model (<12cm requirement). Foil lid inside (top + rim, bottom + side)",5,-0.010346999,37.39869377
+12/31/2018,8:34:00 AM,25,20.6,Purple,69.7,58.4,11.3,,"Baseline testing for Purple updated model (<12cm requirement). Foil lid inside (top + rim, bottom + side)",5,-0.010461997,36.98760795
+12/31/2018,9:11:00 AM,25,20.8,Purple,77.2,64,13.2,,"Baseline testing for Purple updated model (<12cm requirement). Foil lid inside (top + rim, bottom + side)",5,-0.010665147,36.28306962
+12/31/2018,10:24:00 AM,25,20.9,Purple,68.9,58.8,10.1,,"Baseline testing for Purple updated model (<12cm requirement). Foil lid inside (top + rim, bottom + side)",5,-0.009449996,40.94861585
+12/31/2018,11:31:00 AM,25,20.8,Purple,68.5,58,10.5,,"Baseline testing for Purple updated model (<12cm requirement). Foil lid inside (top + rim, bottom + side)",5,-0.009944905,38.91080266
+12/31/2018,12:05:00 PM,25,20.9,Purple,68.3,59,9.3,,"Baseline testing for Purple updated model (<12cm requirement). Foil lid inside (top + rim, bottom + side)",5,-0.008736318,44.2937471
+12/31/2018,4:17:00 PM,25,21.4,Purple,70.6,59.3,11.3,,Baseline testing for Purple updated model (<12cm requirement). Foil everywhere inside,5,-0.0104377,37.07370753
+12/31/2018,4:51:00 PM,25,21.4,Purple,69.1,58.9,10.2,,Baseline testing for Purple updated model (<12cm requirement). Foil everywhere inside,5,-0.009623619,40.20984936
+12/31/2018,5:48:00 PM,25,21.9,Purple,72.2,60.5,11.7,,Baseline testing for Purple updated model (<12cm requirement). Foil everywhere inside,5,-0.010590112,36.54014737
+12/31/2018,6:25:00 PM,25,20.6,Purple,69.6,58.8,10.8,,Baseline testing for Purple updated model (<12cm requirement). Foil everywhere inside,5,-0.009959391,38.85420729
+12/31/2018,7:09:00 PM,25,20.9,Purple,72.7,60.6,12.1,,Baseline testing for Purple updated model (<12cm requirement). Foil everywhere inside,5,-0.010641558,36.36349463
+12/31/2018,7:51:00 PM,25,21.8,Purple,70.8,60.5,10.3,,Baseline testing for Purple updated model (<12cm requirement). Foil everywhere inside,5,-0.009439228,40.99532898
+12/31/2018,8:26:00 PM,25,21.5,Purple,73.1,61.6,11.5,,Baseline testing for Purple updated model (<12cm requirement). Foil everywhere inside,5,-0.010085814,38.36718307
+1/21/2019,8:21:00 PM,25,19.7,Purple,66.3,55.9,10.4,,Baseline testing for Purple updated model (<12cm requirement). Foil replacement,5,-0.010101657,38.30700826
+1/21/2019,9:10:00 PM,25,19.7,Purple,71.1,59.9,11.2,,Baseline testing for Purple updated model (<12cm requirement). Foil replacement,5,-0.009830847,39.36224937
+1/21/2019,9:49:00 PM,25,19.7,Purple,68.7,58.1,10.6,,Baseline testing for Purple updated model (<12cm requirement). Foil replacement,5,-0.009750514,39.68655112
+1/27/2019,9:29:00 PM,25,21.1,Purple,74.8,64.8,10,,Baseline testing for Purple updated model w/ island (<12cm requirement). Foil replacement,5,-0.008242596,46.9468909
+1/27/2019,10:01:00 PM,25,20.5,Purple,72.1,62,10.1,,Baseline testing for Purple updated model w/ island (<12cm requirement). Foil replacement,5,-0.00871313,44.41162504
+1/27/2019,11:21:00 PM,25,20.9,Purple,66.6,57.9,8.7,,Baseline testing for Purple updated model w/ island (<12cm requirement). Foil replacement,5,-0.008447215,45.80968227
+2/1/2019,9:37:00 PM,25,19.1,Purple,59.1,51.5,7.6,,Baseline testing for Purple updated model w/ island (<12cm requirement). Foil replacement,5,-0.008428841,45.90954349
+2/1/2019,10:14:00 PM,25,19.7,Purple,70.4,60.7,9.7,,Baseline testing for Purple updated model w/ island (<12cm requirement). Foil replacement,5,-0.008494154,45.55653985
+2/1/2019,10:47 PM,25,19.7,Purple,66.8,58.1,8.7,,Baseline testing for Purple updated model w/ island (<12cm requirement). Foil replacement,5,-0.008168622,47.37203781
+2/1/2019,11:32 PM,25,19,Purple,57.8,50.6,7.2,,Baseline testing for Purple updated model w/ island (<12cm requirement). Foil replacement. Food Foil on top,5,-0.008210525,47.13026902
+2/2/2019,12:05:00 AM,25,19,Purple,67.9,58.9,9,,Baseline testing for Purple updated model w/ island (<12cm requirement). Foil replacement. Food Foil on top,5,-0.008136043,47.56172732
+2/2/2019,8:40:00 PM,25,20.7,Purple,73.2,61.1,12.1,,Baseline testing for Purple updated model w/ double island (<12cm requirement). No foil on the lid's (microwaved water),5,-0.010479335,36.92641182
+2/2/2019,9:09:00 PM,25,20.7,Purple,59,52.4,6.6,,Baseline testing for Purple updated model w/ double island (<12cm requirement). No foil on the lid's,5,-0.007565329,51.14969539
+2/2/2019,9:44:00 PM,25,20.7,Purple,74.7,63.2,11.5,,Baseline testing for Purple updated model w/ double island (<12cm requirement). No foil on the lid's (microwaved water),5,-0.009579199,40.39630674
+2/2/2019,10:13:00 PM,25,20.7,Purple,61.2,54.6,6.6,,Baseline testing for Purple updated model w/ double island (<12cm requirement). No foil on the lid's,5,-0.007115478,54.38344871
+2/2/2019,10:54:00 PM,25,20.7,Purple,69.9,59.9,10,,Baseline testing for Purple updated model w/ double island (<12cm requirement). No foil on the lid's,5,-0.009088675,42.57653081
+2/2/2019,11:36:00 PM,25,19.9,Purple,75.8,64.5,11.3,,Baseline testing for Purple updated model w/ double island (<12cm requirement). No foil on the lid's,5,-0.009033221,42.83790474
+2/3/2019,12:10:00 AM,25,19.9,Purple,73.3,61.2,12.1,,Baseline testing for Purple updated model w/ double island (<12cm requirement). No foil on the lid's,5,-0.01027793,37.65001903
+2/3/2019,8:25:00 AM,25,18.9,Purple,67.9,59.2,8.7,,Baseline testing for Purple updated model w/ double island (<12cm requirement). No foil on the lid's,5,-0.007818753,49.49181101
+2/3/2019,9:20:00 AM,25,18.9,Purple,65.2,55.6,9.6,,Baseline testing for Purple updated model w/ double island (<12cm requirement). No foil on the lid's,5,-0.009294608,41.63319679
